@@ -1,0 +1,1452 @@
+17.06.17 22:29:31 (+0200) 
+17.06.17 22:29:31 (+0200) ##### 2017-06-17 20:29:31 GMT #####
+17.06.17 22:29:31 (+0200) ### [UPSTREAM] ###
+17.06.17 22:29:31 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:29:31 (+0200) # CRC_OK: 75.00%, CRC_FAIL: 25.00%, NO_CRC: 0.00%
+17.06.17 22:29:31 (+0200) # RF packets forwarded: 3 (51 bytes)
+17.06.17 22:29:31 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:29:31 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:29:31 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:29:31 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:29:31 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:29:31 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:29:31 (+0200) # TX errors: 0
+17.06.17 22:29:31 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:29:31 (+0200) ### [JIT] ###
+17.06.17 22:29:31 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:29:31 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:29:31 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:29:31 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:29:31 (+0200) # Upstream radio packet quality: 75.00%.
+17.06.17 22:29:31 (+0200) # Semtech status report send. 
+17.06.17 22:29:31 (+0200) ##### END #####
+17.06.17 22:30:20 (+0200) 
+17.06.17 22:30:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:30:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:936363µs) - drift=329µs
+17.06.17 22:30:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:30:20 (+0200) 
+17.06.17 22:31:05 (+0200) 
+17.06.17 22:31:05 (+0200) ##### 2017-06-17 20:31:05 GMT #####
+17.06.17 22:31:05 (+0200) ### [UPSTREAM] ###
+17.06.17 22:31:05 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:31:05 (+0200) # CRC_OK: 50.00%, CRC_FAIL: 50.00%, NO_CRC: 0.00%
+17.06.17 22:31:05 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:31:05 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:31:05 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:31:05 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:31:05 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:31:05 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:31:05 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:31:05 (+0200) # TX errors: 0
+17.06.17 22:31:05 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:31:05 (+0200) ### [JIT] ###
+17.06.17 22:31:05 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:31:05 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:31:05 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:31:05 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:31:05 (+0200) # Upstream radio packet quality: 50.00%.
+17.06.17 22:31:05 (+0200) # Semtech status report send. 
+17.06.17 22:31:05 (+0200) ##### END #####
+17.06.17 22:30:35 (+0200) 
+17.06.17 22:30:35 (+0200) ##### 2017-06-17 20:30:35 GMT #####
+17.06.17 22:30:35 (+0200) ### [UPSTREAM] ###
+17.06.17 22:30:35 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:30:35 (+0200) # CRC_OK: 75.00%, CRC_FAIL: 25.00%, NO_CRC: 0.00%
+17.06.17 22:30:35 (+0200) # RF packets forwarded: 3 (52 bytes)
+17.06.17 22:30:35 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:30:35 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:30:35 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:30:35 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:30:35 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:30:35 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:30:35 (+0200) # TX errors: 0
+17.06.17 22:30:35 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:30:35 (+0200) ### [JIT] ###
+17.06.17 22:30:35 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:30:35 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:30:35 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:30:35 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:30:35 (+0200) # Upstream radio packet quality: 75.00%.
+17.06.17 22:30:35 (+0200) # Semtech status report send. 
+17.06.17 22:30:35 (+0200) ##### END #####
+17.06.17 22:31:31 (+0200) INFO: [TTN] server "bridge.eu.thethings.network" connected
+17.06.17 22:31:33 (+0200) INFO: [up] TTN lora packet send to server "bridge.eu.thethings.network"
+17.06.17 22:31:43 (+0200) INFO: [TTN] server "bridge.eu.thethings.network" connected
+17.06.17 22:32:20 (+0200) 
+17.06.17 22:32:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:32:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:937163µs) - drift=376µs
+17.06.17 22:32:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:32:20 (+0200) 
+17.06.17 22:32:26 (+0200) ERROR: [TTN] Connection to server "bridge.eu.thethings.network" failed, retry in 30 seconds
+17.06.17 22:32:40 (+0200) 
+17.06.17 22:32:40 (+0200) ##### 2017-06-17 20:32:40 GMT #####
+17.06.17 22:32:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:32:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:32:40 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 22:32:40 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:32:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:32:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:32:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:32:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:32:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:32:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:32:40 (+0200) # TX errors: 0
+17.06.17 22:32:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:32:40 (+0200) ### [JIT] ###
+17.06.17 22:32:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:32:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:32:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:32:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:32:40 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 22:32:40 (+0200) # Semtech status report send. 
+17.06.17 22:32:40 (+0200) ##### END #####
+17.06.17 22:33:10 (+0200) 
+17.06.17 22:33:10 (+0200) ##### 2017-06-17 20:33:10 GMT #####
+17.06.17 22:33:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:33:10 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:33:10 (+0200) # CRC_OK: 75.00%, CRC_FAIL: 25.00%, NO_CRC: 0.00%
+17.06.17 22:33:10 (+0200) # RF packets forwarded: 3 (48 bytes)
+17.06.17 22:33:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:33:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:33:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:33:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:33:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:33:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:33:10 (+0200) # TX errors: 0
+17.06.17 22:33:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:33:10 (+0200) ### [JIT] ###
+17.06.17 22:33:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:33:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:33:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:33:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:33:10 (+0200) # Upstream radio packet quality: 75.00%.
+17.06.17 22:33:10 (+0200) # Semtech status report send. 
+17.06.17 22:33:10 (+0200) ##### END #####
+17.06.17 22:33:20 (+0200) 
+17.06.17 22:33:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:33:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:937546µs) - drift=383µs
+17.06.17 22:33:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:33:20 (+0200) 
+17.06.17 22:32:10 (+0200) 
+17.06.17 22:32:10 (+0200) ##### 2017-06-17 20:32:10 GMT #####
+17.06.17 22:32:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:32:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:32:10 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:32:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:32:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:32:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:32:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:32:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:32:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:32:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:32:10 (+0200) # TX errors: 0
+17.06.17 22:32:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:32:10 (+0200) ### [JIT] ###
+17.06.17 22:32:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:32:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:32:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:32:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:32:10 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:32:10 (+0200) # Semtech status report send. 
+17.06.17 22:32:10 (+0200) ##### END #####
+17.06.17 22:37:20 (+0200) 
+17.06.17 22:37:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:37:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:939101µs) - drift=392µs
+17.06.17 22:37:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:37:20 (+0200) 
+17.06.17 22:37:40 (+0200) 
+17.06.17 22:37:40 (+0200) ##### 2017-06-17 20:37:40 GMT #####
+17.06.17 22:37:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:37:40 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:37:40 (+0200) # CRC_OK: 50.00%, CRC_FAIL: 50.00%, NO_CRC: 0.00%
+17.06.17 22:37:40 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:37:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:37:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:37:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:37:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:37:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:37:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:37:40 (+0200) # TX errors: 0
+17.06.17 22:37:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:37:40 (+0200) ### [JIT] ###
+17.06.17 22:37:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:37:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:37:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:37:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:37:40 (+0200) # Upstream radio packet quality: 50.00%.
+17.06.17 22:37:40 (+0200) # Semtech status report send. 
+17.06.17 22:37:40 (+0200) ##### END #####
+17.06.17 22:38:10 (+0200) 
+17.06.17 22:38:10 (+0200) ##### 2017-06-17 20:38:10 GMT #####
+17.06.17 22:38:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:38:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:38:10 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 22:38:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:38:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:38:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:38:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:38:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:38:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:38:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:38:10 (+0200) # TX errors: 0
+17.06.17 22:38:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:38:10 (+0200) ### [JIT] ###
+17.06.17 22:38:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:38:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:38:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:38:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:38:10 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 22:38:10 (+0200) # Semtech status report send. 
+17.06.17 22:38:10 (+0200) ##### END #####
+17.06.17 22:38:20 (+0200) 
+17.06.17 22:38:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:38:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:939490µs) - drift=389µs
+17.06.17 22:38:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:38:20 (+0200) 
+17.06.17 22:38:40 (+0200) 
+17.06.17 22:38:40 (+0200) ##### 2017-06-17 20:38:40 GMT #####
+17.06.17 22:38:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:38:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:38:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:38:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:38:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:38:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:38:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:38:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:38:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:38:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:38:40 (+0200) # TX errors: 0
+17.06.17 22:38:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:38:40 (+0200) ### [JIT] ###
+17.06.17 22:38:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:38:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:38:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:38:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:38:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:38:40 (+0200) # Semtech status report send. 
+17.06.17 22:38:40 (+0200) ##### END #####
+17.06.17 22:39:20 (+0200) 
+17.06.17 22:39:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:39:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:939890µs) - drift=400µs
+17.06.17 22:39:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:39:20 (+0200) 
+17.06.17 22:39:40 (+0200) 
+17.06.17 22:39:40 (+0200) ##### 2017-06-17 20:39:40 GMT #####
+17.06.17 22:39:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:39:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:39:40 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 22:39:40 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:39:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:39:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:39:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:39:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:39:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:39:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:39:40 (+0200) # TX errors: 0
+17.06.17 22:39:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:39:40 (+0200) ### [JIT] ###
+17.06.17 22:39:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:39:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:39:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:39:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:39:40 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 22:39:40 (+0200) # Semtech status report send. 
+17.06.17 22:39:40 (+0200) ##### END #####
+17.06.17 22:40:10 (+0200) 
+17.06.17 22:40:10 (+0200) ##### 2017-06-17 20:40:10 GMT #####
+17.06.17 22:40:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:40:10 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:40:10 (+0200) # CRC_OK: 25.00%, CRC_FAIL: 75.00%, NO_CRC: 0.00%
+17.06.17 22:40:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:40:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:40:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:40:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:40:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:40:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:40:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:40:10 (+0200) # TX errors: 0
+17.06.17 22:40:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:40:10 (+0200) ### [JIT] ###
+17.06.17 22:40:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:40:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:40:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:40:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:40:10 (+0200) # Upstream radio packet quality: 25.00%.
+17.06.17 22:40:10 (+0200) # Semtech status report send. 
+17.06.17 22:40:10 (+0200) ##### END #####
+17.06.17 22:40:20 (+0200) 
+17.06.17 22:40:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:40:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:940283µs) - drift=393µs
+17.06.17 22:40:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:40:20 (+0200) 
+17.06.17 22:40:40 (+0200) 
+17.06.17 22:40:40 (+0200) ##### 2017-06-17 20:40:40 GMT #####
+17.06.17 22:40:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:40:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:40:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:40:40 (+0200) # RF packets forwarded: 2 (37 bytes)
+17.06.17 22:40:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:40:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:40:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:40:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:40:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:40:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:40:40 (+0200) # TX errors: 0
+17.06.17 22:40:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:40:40 (+0200) ### [JIT] ###
+17.06.17 22:40:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:40:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:40:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:40:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:40:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:40:40 (+0200) # Semtech status report send. 
+17.06.17 22:40:40 (+0200) ##### END #####
+17.06.17 22:41:10 (+0200) 
+17.06.17 22:41:10 (+0200) ##### 2017-06-17 20:41:10 GMT #####
+17.06.17 22:41:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:41:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:41:10 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:41:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:41:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:41:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:41:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:41:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:41:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:41:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:41:10 (+0200) # TX errors: 0
+17.06.17 22:41:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:41:10 (+0200) ### [JIT] ###
+17.06.17 22:41:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:41:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:41:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:41:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:41:10 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:41:10 (+0200) # Semtech status report send. 
+17.06.17 22:41:10 (+0200) ##### END #####
+17.06.17 22:41:20 (+0200) 
+17.06.17 22:41:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:41:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:940689µs) - drift=406µs
+17.06.17 22:41:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:41:20 (+0200) 
+17.06.17 22:41:40 (+0200) 
+17.06.17 22:41:40 (+0200) ##### 2017-06-17 20:41:40 GMT #####
+17.06.17 22:41:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:41:40 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:41:40 (+0200) # CRC_OK: 75.00%, CRC_FAIL: 25.00%, NO_CRC: 0.00%
+17.06.17 22:41:40 (+0200) # RF packets forwarded: 3 (82 bytes)
+17.06.17 22:41:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:41:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:41:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:41:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:41:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:41:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:41:40 (+0200) # TX errors: 0
+17.06.17 22:41:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:41:40 (+0200) ### [JIT] ###
+17.06.17 22:41:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:41:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:41:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:41:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:41:40 (+0200) # Upstream radio packet quality: 75.00%.
+17.06.17 22:41:40 (+0200) # Semtech status report send. 
+17.06.17 22:41:40 (+0200) ##### END #####
+17.06.17 22:42:10 (+0200) 
+17.06.17 22:42:10 (+0200) ##### 2017-06-17 20:42:10 GMT #####
+17.06.17 22:42:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:42:10 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:42:10 (+0200) # CRC_OK: 50.00%, CRC_FAIL: 50.00%, NO_CRC: 0.00%
+17.06.17 22:42:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:42:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:42:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:42:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:42:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:42:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:42:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:42:10 (+0200) # TX errors: 0
+17.06.17 22:42:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:42:10 (+0200) ### [JIT] ###
+17.06.17 22:42:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:42:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:42:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:42:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:42:10 (+0200) # Upstream radio packet quality: 50.00%.
+17.06.17 22:42:10 (+0200) # Semtech status report send. 
+17.06.17 22:42:10 (+0200) ##### END #####
+17.06.17 22:42:20 (+0200) 
+17.06.17 22:42:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:42:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:941009µs) - drift=320µs
+17.06.17 22:42:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:42:20 (+0200) 
+17.06.17 22:42:40 (+0200) 
+17.06.17 22:42:40 (+0200) ##### 2017-06-17 20:42:40 GMT #####
+17.06.17 22:42:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:42:40 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:42:40 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:42:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:42:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:42:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:42:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:42:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:42:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:42:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:42:40 (+0200) # TX errors: 0
+17.06.17 22:42:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:42:40 (+0200) ### [JIT] ###
+17.06.17 22:42:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:42:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:42:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:42:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:42:40 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:42:40 (+0200) # Semtech status report send. 
+17.06.17 22:42:40 (+0200) ##### END #####
+17.06.17 22:43:10 (+0200) 
+17.06.17 22:43:10 (+0200) ##### 2017-06-17 20:43:10 GMT #####
+17.06.17 22:43:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:43:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:43:10 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 22:43:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:43:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:43:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:43:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:43:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:43:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:43:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:43:10 (+0200) # TX errors: 0
+17.06.17 22:43:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:43:10 (+0200) ### [JIT] ###
+17.06.17 22:43:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:43:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:43:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:43:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:43:10 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 22:43:10 (+0200) # Semtech status report send. 
+17.06.17 22:43:10 (+0200) ##### END #####
+17.06.17 22:43:20 (+0200) 
+17.06.17 22:43:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:43:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:941493µs) - drift=484µs
+17.06.17 22:43:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:43:20 (+0200) 
+17.06.17 22:43:40 (+0200) 
+17.06.17 22:43:40 (+0200) ##### 2017-06-17 20:43:40 GMT #####
+17.06.17 22:43:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:43:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:43:40 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 22:43:40 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:43:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:43:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:43:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:43:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:43:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:43:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:43:40 (+0200) # TX errors: 0
+17.06.17 22:43:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:43:40 (+0200) ### [JIT] ###
+17.06.17 22:43:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:43:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:43:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:43:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:43:40 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 22:43:40 (+0200) # Semtech status report send. 
+17.06.17 22:43:40 (+0200) ##### END #####
+17.06.17 22:44:10 (+0200) 
+17.06.17 22:44:10 (+0200) ##### 2017-06-17 20:44:10 GMT #####
+17.06.17 22:44:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:44:10 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:44:10 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:44:10 (+0200) # RF packets forwarded: 2 (36 bytes)
+17.06.17 22:44:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:44:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:44:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:44:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:44:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:44:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:44:10 (+0200) # TX errors: 0
+17.06.17 22:44:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:44:10 (+0200) ### [JIT] ###
+17.06.17 22:44:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:44:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:44:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:44:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:44:10 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:44:10 (+0200) # Semtech status report send. 
+17.06.17 22:44:10 (+0200) ##### END #####
+17.06.17 22:44:20 (+0200) 
+17.06.17 22:44:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:44:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:941891µs) - drift=398µs
+17.06.17 22:44:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:44:20 (+0200) 
+17.06.17 22:44:40 (+0200) 
+17.06.17 22:44:40 (+0200) ##### 2017-06-17 20:44:40 GMT #####
+17.06.17 22:44:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:44:40 (+0200) # RF packets received by concentrator: 5
+17.06.17 22:44:40 (+0200) # CRC_OK: 80.00%, CRC_FAIL: 20.00%, NO_CRC: 0.00%
+17.06.17 22:44:40 (+0200) # RF packets forwarded: 4 (63 bytes)
+17.06.17 22:44:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:44:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:44:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:44:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:44:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:44:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:44:40 (+0200) # TX errors: 0
+17.06.17 22:44:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:44:40 (+0200) ### [JIT] ###
+17.06.17 22:44:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:44:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:44:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:44:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:44:40 (+0200) # Upstream radio packet quality: 80.00%.
+17.06.17 22:44:40 (+0200) # Semtech status report send. 
+17.06.17 22:44:40 (+0200) ##### END #####
+17.06.17 22:45:10 (+0200) 
+17.06.17 22:45:10 (+0200) ##### 2017-06-17 20:45:10 GMT #####
+17.06.17 22:45:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:45:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:45:10 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:45:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:45:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:45:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:45:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:45:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:45:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:45:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:45:10 (+0200) # TX errors: 0
+17.06.17 22:45:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:45:10 (+0200) ### [JIT] ###
+17.06.17 22:45:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:45:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:45:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:45:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:45:10 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:45:10 (+0200) # Semtech status report send. 
+17.06.17 22:45:10 (+0200) ##### END #####
+17.06.17 22:45:20 (+0200) 
+17.06.17 22:45:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:45:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:942292µs) - drift=401µs
+17.06.17 22:45:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:45:20 (+0200) 
+17.06.17 22:45:40 (+0200) 
+17.06.17 22:45:40 (+0200) ##### 2017-06-17 20:45:40 GMT #####
+17.06.17 22:45:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:45:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:45:40 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:45:40 (+0200) # RF packets forwarded: 3 (48 bytes)
+17.06.17 22:45:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:45:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:45:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:45:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:45:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:45:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:45:40 (+0200) # TX errors: 0
+17.06.17 22:45:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:45:40 (+0200) ### [JIT] ###
+17.06.17 22:45:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:45:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:45:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:45:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:45:40 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:45:40 (+0200) # Semtech status report send. 
+17.06.17 22:45:40 (+0200) ##### END #####
+17.06.17 22:46:10 (+0200) 
+17.06.17 22:46:10 (+0200) ##### 2017-06-17 20:46:10 GMT #####
+17.06.17 22:46:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:46:10 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:46:10 (+0200) # CRC_OK: 25.00%, CRC_FAIL: 75.00%, NO_CRC: 0.00%
+17.06.17 22:46:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:46:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:46:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:46:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:46:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:46:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:46:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:46:10 (+0200) # TX errors: 0
+17.06.17 22:46:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:46:10 (+0200) ### [JIT] ###
+17.06.17 22:46:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:46:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:46:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:46:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:46:10 (+0200) # Upstream radio packet quality: 25.00%.
+17.06.17 22:46:10 (+0200) # Semtech status report send. 
+17.06.17 22:46:10 (+0200) ##### END #####
+17.06.17 22:46:20 (+0200) 
+17.06.17 22:46:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:46:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:942696µs) - drift=404µs
+17.06.17 22:46:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:46:20 (+0200) 
+17.06.17 22:46:40 (+0200) 
+17.06.17 22:46:40 (+0200) ##### 2017-06-17 20:46:40 GMT #####
+17.06.17 22:46:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:46:40 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:46:40 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:46:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:46:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:46:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:46:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:46:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:46:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:46:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:46:40 (+0200) # TX errors: 0
+17.06.17 22:46:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:46:40 (+0200) ### [JIT] ###
+17.06.17 22:46:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:46:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:46:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:46:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:46:40 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:46:40 (+0200) # Semtech status report send. 
+17.06.17 22:46:40 (+0200) ##### END #####
+17.06.17 22:47:10 (+0200) 
+17.06.17 22:47:10 (+0200) ##### 2017-06-17 20:47:10 GMT #####
+17.06.17 22:47:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:47:10 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:47:10 (+0200) # CRC_OK: 50.00%, CRC_FAIL: 50.00%, NO_CRC: 0.00%
+17.06.17 22:47:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:47:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:47:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:47:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:47:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:47:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:47:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:47:10 (+0200) # TX errors: 0
+17.06.17 22:47:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:47:10 (+0200) ### [JIT] ###
+17.06.17 22:47:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:47:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:47:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:47:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:47:10 (+0200) # Upstream radio packet quality: 50.00%.
+17.06.17 22:47:10 (+0200) # Semtech status report send. 
+17.06.17 22:47:10 (+0200) ##### END #####
+17.06.17 22:47:20 (+0200) 
+17.06.17 22:47:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:47:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:943111µs) - drift=415µs
+17.06.17 22:47:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:47:20 (+0200) 
+17.06.17 22:47:40 (+0200) 
+17.06.17 22:47:40 (+0200) ##### 2017-06-17 20:47:40 GMT #####
+17.06.17 22:47:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:47:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:47:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:47:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:47:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:47:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:47:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:47:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:47:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:47:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:47:40 (+0200) # TX errors: 0
+17.06.17 22:47:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:47:40 (+0200) ### [JIT] ###
+17.06.17 22:47:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:47:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:47:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:47:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:47:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:47:40 (+0200) # Semtech status report send. 
+17.06.17 22:47:40 (+0200) ##### END #####
+17.06.17 22:48:10 (+0200) 
+17.06.17 22:48:10 (+0200) ##### 2017-06-17 20:48:10 GMT #####
+17.06.17 22:48:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:48:10 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:48:10 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:48:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:48:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:48:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:48:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:48:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:48:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:48:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:48:10 (+0200) # TX errors: 0
+17.06.17 22:48:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:48:10 (+0200) ### [JIT] ###
+17.06.17 22:48:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:48:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:48:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:48:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:48:10 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:48:10 (+0200) # Semtech status report send. 
+17.06.17 22:48:10 (+0200) ##### END #####
+17.06.17 22:48:20 (+0200) 
+17.06.17 22:48:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:48:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:943516µs) - drift=405µs
+17.06.17 22:48:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:48:20 (+0200) 
+17.06.17 22:48:40 (+0200) 
+17.06.17 22:48:40 (+0200) ##### 2017-06-17 20:48:40 GMT #####
+17.06.17 22:48:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:48:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:48:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:48:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:48:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:48:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:48:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:48:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:48:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:48:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:48:40 (+0200) # TX errors: 0
+17.06.17 22:48:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:48:40 (+0200) ### [JIT] ###
+17.06.17 22:48:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:48:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:48:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:48:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:48:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:48:40 (+0200) # Semtech status report send. 
+17.06.17 22:48:40 (+0200) ##### END #####
+17.06.17 22:49:10 (+0200) 
+17.06.17 22:49:10 (+0200) ##### 2017-06-17 20:49:10 GMT #####
+17.06.17 22:49:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:49:10 (+0200) # RF packets received by concentrator: 5
+17.06.17 22:49:10 (+0200) # CRC_OK: 60.00%, CRC_FAIL: 40.00%, NO_CRC: 0.00%
+17.06.17 22:49:10 (+0200) # RF packets forwarded: 3 (62 bytes)
+17.06.17 22:49:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:49:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:49:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:49:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:49:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:49:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:49:10 (+0200) # TX errors: 0
+17.06.17 22:49:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:49:10 (+0200) ### [JIT] ###
+17.06.17 22:49:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:49:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:49:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:49:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:49:10 (+0200) # Upstream radio packet quality: 60.00%.
+17.06.17 22:49:10 (+0200) # Semtech status report send. 
+17.06.17 22:49:10 (+0200) ##### END #####
+17.06.17 22:49:20 (+0200) 
+17.06.17 22:49:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:49:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:943929µs) - drift=413µs
+17.06.17 22:49:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:49:20 (+0200) 
+17.06.17 22:49:40 (+0200) 
+17.06.17 22:49:40 (+0200) ##### 2017-06-17 20:49:40 GMT #####
+17.06.17 22:49:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:49:40 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:49:40 (+0200) # CRC_OK: 75.00%, CRC_FAIL: 25.00%, NO_CRC: 0.00%
+17.06.17 22:49:40 (+0200) # RF packets forwarded: 3 (51 bytes)
+17.06.17 22:49:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:49:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:49:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:49:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:49:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:49:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:49:40 (+0200) # TX errors: 0
+17.06.17 22:49:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:49:40 (+0200) ### [JIT] ###
+17.06.17 22:49:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:49:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:49:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:49:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:49:40 (+0200) # Upstream radio packet quality: 75.00%.
+17.06.17 22:49:40 (+0200) # Semtech status report send. 
+17.06.17 22:49:40 (+0200) ##### END #####
+17.06.17 22:50:10 (+0200) 
+17.06.17 22:50:10 (+0200) ##### 2017-06-17 20:50:10 GMT #####
+17.06.17 22:50:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:50:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:50:10 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 22:50:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:50:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:50:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:50:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:50:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:50:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:50:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:50:10 (+0200) # TX errors: 0
+17.06.17 22:50:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:50:10 (+0200) ### [JIT] ###
+17.06.17 22:50:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:50:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:50:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:50:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:50:10 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 22:50:10 (+0200) # Semtech status report send. 
+17.06.17 22:50:10 (+0200) ##### END #####
+17.06.17 22:50:20 (+0200) 
+17.06.17 22:50:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:50:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:944317µs) - drift=388µs
+17.06.17 22:50:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:50:20 (+0200) 
+17.06.17 22:50:40 (+0200) 
+17.06.17 22:50:40 (+0200) ##### 2017-06-17 20:50:40 GMT #####
+17.06.17 22:50:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:50:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:50:40 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:50:40 (+0200) # RF packets forwarded: 3 (52 bytes)
+17.06.17 22:50:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:50:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:50:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:50:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:50:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:50:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:50:40 (+0200) # TX errors: 0
+17.06.17 22:50:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:50:40 (+0200) ### [JIT] ###
+17.06.17 22:50:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:50:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:50:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:50:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:50:40 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:50:40 (+0200) # Semtech status report send. 
+17.06.17 22:50:40 (+0200) ##### END #####
+17.06.17 22:51:10 (+0200) 
+17.06.17 22:51:10 (+0200) ##### 2017-06-17 20:51:10 GMT #####
+17.06.17 22:51:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:51:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:51:10 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:51:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:51:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:51:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:51:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:51:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:51:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:51:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:51:10 (+0200) # TX errors: 0
+17.06.17 22:51:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:51:10 (+0200) ### [JIT] ###
+17.06.17 22:51:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:51:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:51:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:51:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:51:10 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:51:10 (+0200) # Semtech status report send. 
+17.06.17 22:51:10 (+0200) ##### END #####
+17.06.17 22:51:20 (+0200) 
+17.06.17 22:51:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:51:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:944764µs) - drift=447µs
+17.06.17 22:51:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:51:20 (+0200) 
+17.06.17 22:51:40 (+0200) 
+17.06.17 22:51:40 (+0200) ##### 2017-06-17 20:51:40 GMT #####
+17.06.17 22:51:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:51:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:51:40 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:51:40 (+0200) # RF packets forwarded: 3 (82 bytes)
+17.06.17 22:51:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:51:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:51:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:51:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:51:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:51:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:51:40 (+0200) # TX errors: 0
+17.06.17 22:51:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:51:40 (+0200) ### [JIT] ###
+17.06.17 22:51:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:51:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:51:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:51:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:51:40 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:51:40 (+0200) # Semtech status report send. 
+17.06.17 22:51:40 (+0200) ##### END #####
+17.06.17 22:52:10 (+0200) 
+17.06.17 22:52:10 (+0200) ##### 2017-06-17 20:52:10 GMT #####
+17.06.17 22:52:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:52:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:52:10 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 22:52:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:52:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:52:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:52:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:52:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:52:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:52:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:52:10 (+0200) # TX errors: 0
+17.06.17 22:52:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:52:10 (+0200) ### [JIT] ###
+17.06.17 22:52:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:52:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:52:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:52:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:52:10 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 22:52:10 (+0200) # Semtech status report send. 
+17.06.17 22:52:10 (+0200) ##### END #####
+17.06.17 22:52:20 (+0200) 
+17.06.17 22:52:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:52:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:945530µs) - drift=766µs
+17.06.17 22:52:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:52:20 (+0200) 
+17.06.17 22:52:40 (+0200) 
+17.06.17 22:52:40 (+0200) ##### 2017-06-17 20:52:40 GMT #####
+17.06.17 22:52:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:52:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:52:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:52:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:52:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:52:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:52:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:52:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:52:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:52:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:52:40 (+0200) # TX errors: 0
+17.06.17 22:52:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:52:40 (+0200) ### [JIT] ###
+17.06.17 22:52:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:52:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:52:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:52:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:52:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:52:40 (+0200) # Semtech status report send. 
+17.06.17 22:52:40 (+0200) ##### END #####
+17.06.17 22:53:10 (+0200) 
+17.06.17 22:53:10 (+0200) ##### 2017-06-17 20:53:10 GMT #####
+17.06.17 22:53:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:53:10 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:53:10 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:53:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:53:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:53:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:53:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:53:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:53:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:53:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:53:10 (+0200) # TX errors: 0
+17.06.17 22:53:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:53:10 (+0200) ### [JIT] ###
+17.06.17 22:53:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:53:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:53:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:53:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:53:10 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:53:10 (+0200) # Semtech status report send. 
+17.06.17 22:53:10 (+0200) ##### END #####
+17.06.17 22:53:20 (+0200) 
+17.06.17 22:53:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:53:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:946321µs) - drift=791µs
+17.06.17 22:53:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:53:20 (+0200) 
+17.06.17 22:53:40 (+0200) 
+17.06.17 22:53:40 (+0200) ##### 2017-06-17 20:53:40 GMT #####
+17.06.17 22:53:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:53:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:53:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:53:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:53:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:53:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:53:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:53:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:53:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:53:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:53:40 (+0200) # TX errors: 0
+17.06.17 22:53:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:53:40 (+0200) ### [JIT] ###
+17.06.17 22:53:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:53:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:53:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:53:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:53:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:53:40 (+0200) # Semtech status report send. 
+17.06.17 22:53:40 (+0200) ##### END #####
+17.06.17 22:54:10 (+0200) 
+17.06.17 22:54:10 (+0200) ##### 2017-06-17 20:54:10 GMT #####
+17.06.17 22:54:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:54:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:54:10 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:54:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:54:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:54:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:54:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:54:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:54:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:54:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:54:10 (+0200) # TX errors: 0
+17.06.17 22:54:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:54:10 (+0200) ### [JIT] ###
+17.06.17 22:54:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:54:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:54:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:54:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:54:10 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:54:10 (+0200) # Semtech status report send. 
+17.06.17 22:54:10 (+0200) ##### END #####
+17.06.17 22:54:20 (+0200) 
+17.06.17 22:54:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:54:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:947064µs) - drift=743µs
+17.06.17 22:54:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:54:20 (+0200) 
+17.06.17 22:54:40 (+0200) 
+17.06.17 22:54:40 (+0200) ##### 2017-06-17 20:54:40 GMT #####
+17.06.17 22:54:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:54:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:54:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:54:40 (+0200) # RF packets forwarded: 2 (36 bytes)
+17.06.17 22:54:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:54:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:54:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:54:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:54:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:54:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:54:40 (+0200) # TX errors: 0
+17.06.17 22:54:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:54:40 (+0200) ### [JIT] ###
+17.06.17 22:54:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:54:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:54:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:54:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:54:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:54:40 (+0200) # Semtech status report send. 
+17.06.17 22:54:40 (+0200) ##### END #####
+17.06.17 22:55:10 (+0200) 
+17.06.17 22:55:10 (+0200) ##### 2017-06-17 20:55:10 GMT #####
+17.06.17 22:55:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:55:10 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:55:10 (+0200) # CRC_OK: 50.00%, CRC_FAIL: 50.00%, NO_CRC: 0.00%
+17.06.17 22:55:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:55:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:55:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:55:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:55:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:55:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:55:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:55:10 (+0200) # TX errors: 0
+17.06.17 22:55:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:55:10 (+0200) ### [JIT] ###
+17.06.17 22:55:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:55:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:55:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:55:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:55:10 (+0200) # Upstream radio packet quality: 50.00%.
+17.06.17 22:55:10 (+0200) # Semtech status report send. 
+17.06.17 22:55:10 (+0200) ##### END #####
+17.06.17 22:55:20 (+0200) 
+17.06.17 22:55:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:55:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:947772µs) - drift=708µs
+17.06.17 22:55:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:55:20 (+0200) 
+17.06.17 22:55:40 (+0200) 
+17.06.17 22:55:40 (+0200) ##### 2017-06-17 20:55:40 GMT #####
+17.06.17 22:55:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:55:40 (+0200) # RF packets received by concentrator: 1
+17.06.17 22:55:40 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:55:40 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:55:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:55:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:55:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:55:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:55:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:55:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:55:40 (+0200) # TX errors: 0
+17.06.17 22:55:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:55:40 (+0200) ### [JIT] ###
+17.06.17 22:55:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:55:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:55:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:55:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:55:40 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:55:40 (+0200) # Semtech status report send. 
+17.06.17 22:55:40 (+0200) ##### END #####
+17.06.17 22:56:10 (+0200) 
+17.06.17 22:56:10 (+0200) ##### 2017-06-17 20:56:10 GMT #####
+17.06.17 22:56:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:56:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:56:10 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:56:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:56:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:56:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:56:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:56:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:56:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:56:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:56:10 (+0200) # TX errors: 0
+17.06.17 22:56:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:56:10 (+0200) ### [JIT] ###
+17.06.17 22:56:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:56:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:56:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:56:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:56:10 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:56:10 (+0200) # Semtech status report send. 
+17.06.17 22:56:10 (+0200) ##### END #####
+17.06.17 22:56:20 (+0200) 
+17.06.17 22:56:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:56:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:948453µs) - drift=681µs
+17.06.17 22:56:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:56:20 (+0200) 
+17.06.17 22:56:40 (+0200) 
+17.06.17 22:56:40 (+0200) ##### 2017-06-17 20:56:40 GMT #####
+17.06.17 22:56:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:56:40 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:56:40 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:56:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:56:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:56:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:56:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:56:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:56:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:56:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:56:40 (+0200) # TX errors: 0
+17.06.17 22:56:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:56:40 (+0200) ### [JIT] ###
+17.06.17 22:56:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:56:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:56:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:56:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:56:40 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:56:40 (+0200) # Semtech status report send. 
+17.06.17 22:56:40 (+0200) ##### END #####
+17.06.17 22:57:10 (+0200) 
+17.06.17 22:57:10 (+0200) ##### 2017-06-17 20:57:10 GMT #####
+17.06.17 22:57:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:57:10 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:57:10 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 22:57:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:57:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:57:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:57:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:57:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:57:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:57:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:57:10 (+0200) # TX errors: 0
+17.06.17 22:57:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:57:10 (+0200) ### [JIT] ###
+17.06.17 22:57:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:57:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:57:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:57:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:57:10 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 22:57:10 (+0200) # Semtech status report send. 
+17.06.17 22:57:10 (+0200) ##### END #####
+17.06.17 22:57:20 (+0200) 
+17.06.17 22:57:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:57:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:949103µs) - drift=650µs
+17.06.17 22:57:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:57:20 (+0200) 
+17.06.17 22:57:40 (+0200) 
+17.06.17 22:57:40 (+0200) ##### 2017-06-17 20:57:40 GMT #####
+17.06.17 22:57:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:57:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:57:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:57:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 22:57:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:57:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:57:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:57:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:57:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:57:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:57:40 (+0200) # TX errors: 0
+17.06.17 22:57:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:57:40 (+0200) ### [JIT] ###
+17.06.17 22:57:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:57:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:57:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:57:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:57:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:57:40 (+0200) # Semtech status report send. 
+17.06.17 22:57:40 (+0200) ##### END #####
+17.06.17 22:58:10 (+0200) 
+17.06.17 22:58:10 (+0200) ##### 2017-06-17 20:58:10 GMT #####
+17.06.17 22:58:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:58:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:58:10 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 22:58:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:58:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:58:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:58:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:58:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:58:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:58:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:58:10 (+0200) # TX errors: 0
+17.06.17 22:58:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:58:10 (+0200) ### [JIT] ###
+17.06.17 22:58:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:58:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:58:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:58:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:58:10 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 22:58:10 (+0200) # Semtech status report send. 
+17.06.17 22:58:10 (+0200) ##### END #####
+17.06.17 22:58:20 (+0200) 
+17.06.17 22:58:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:58:20 (+0200) INFO: host/sx1301 time offset=(1497728837s:949751µs) - drift=648µs
+17.06.17 22:58:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:58:20 (+0200) 
+17.06.17 22:58:40 (+0200) 
+17.06.17 22:58:40 (+0200) ##### 2017-06-17 20:58:40 GMT #####
+17.06.17 22:58:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:58:40 (+0200) # RF packets received by concentrator: 2
+17.06.17 22:58:40 (+0200) # CRC_OK: 50.00%, CRC_FAIL: 50.00%, NO_CRC: 0.00%
+17.06.17 22:58:40 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 22:58:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:58:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:58:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:58:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:58:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:58:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:58:40 (+0200) # TX errors: 0
+17.06.17 22:58:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:58:40 (+0200) ### [JIT] ###
+17.06.17 22:58:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:58:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:58:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:58:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:58:40 (+0200) # Upstream radio packet quality: 50.00%.
+17.06.17 22:58:40 (+0200) # Semtech status report send. 
+17.06.17 22:58:40 (+0200) ##### END #####
+17.06.17 22:59:10 (+0200) 
+17.06.17 22:59:10 (+0200) ##### 2017-06-17 20:59:10 GMT #####
+17.06.17 22:59:10 (+0200) ### [UPSTREAM] ###
+17.06.17 22:59:10 (+0200) # RF packets received by concentrator: 4
+17.06.17 22:59:10 (+0200) # CRC_OK: 75.00%, CRC_FAIL: 25.00%, NO_CRC: 0.00%
+17.06.17 22:59:10 (+0200) # RF packets forwarded: 3 (48 bytes)
+17.06.17 22:59:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:59:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:59:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:59:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:59:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:59:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:59:10 (+0200) # TX errors: 0
+17.06.17 22:59:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:59:10 (+0200) ### [JIT] ###
+17.06.17 22:59:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:59:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:59:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:59:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:59:10 (+0200) # Upstream radio packet quality: 75.00%.
+17.06.17 22:59:10 (+0200) # Semtech status report send. 
+17.06.17 22:59:10 (+0200) ##### END #####
+17.06.17 22:59:20 (+0200) 
+17.06.17 22:59:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 22:59:20 (+0200) INFO: host/sx1301 time offset=(1497733132s:917674µs) - drift=627µs
+17.06.17 22:59:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 22:59:20 (+0200) 
+17.06.17 22:59:40 (+0200) 
+17.06.17 22:59:40 (+0200) ##### 2017-06-17 20:59:40 GMT #####
+17.06.17 22:59:40 (+0200) ### [UPSTREAM] ###
+17.06.17 22:59:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 22:59:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 22:59:40 (+0200) # RF packets forwarded: 2 (36 bytes)
+17.06.17 22:59:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 22:59:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 22:59:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 22:59:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 22:59:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 22:59:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 22:59:40 (+0200) # TX errors: 0
+17.06.17 22:59:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 22:59:40 (+0200) ### [JIT] ###
+17.06.17 22:59:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 22:59:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 22:59:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 22:59:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 22:59:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 22:59:40 (+0200) # Semtech status report send. 
+17.06.17 22:59:40 (+0200) ##### END #####
+17.06.17 23:00:10 (+0200) 
+17.06.17 23:00:10 (+0200) ##### 2017-06-17 21:00:10 GMT #####
+17.06.17 23:00:10 (+0200) ### [UPSTREAM] ###
+17.06.17 23:00:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 23:00:10 (+0200) # CRC_OK: 33.33%, CRC_FAIL: 66.67%, NO_CRC: 0.00%
+17.06.17 23:00:10 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 23:00:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:00:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:00:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:00:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:00:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:00:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:00:10 (+0200) # TX errors: 0
+17.06.17 23:00:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:00:10 (+0200) ### [JIT] ###
+17.06.17 23:00:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:00:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:00:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:00:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:00:10 (+0200) # Upstream radio packet quality: 33.33%.
+17.06.17 23:00:10 (+0200) # Semtech status report send. 
+17.06.17 23:00:10 (+0200) ##### END #####
+17.06.17 23:00:20 (+0200) 
+17.06.17 23:00:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 23:00:20 (+0200) INFO: host/sx1301 time offset=(1497733132s:918272µs) - drift=598µs
+17.06.17 23:00:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 23:00:20 (+0200) 
+17.06.17 23:01:10 (+0200) 
+17.06.17 23:01:10 (+0200) ##### 2017-06-17 21:01:10 GMT #####
+17.06.17 23:01:10 (+0200) ### [UPSTREAM] ###
+17.06.17 23:01:10 (+0200) # RF packets received by concentrator: 2
+17.06.17 23:01:10 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 23:01:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 23:01:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:01:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:01:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:01:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:01:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:01:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:01:10 (+0200) # TX errors: 0
+17.06.17 23:01:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:01:10 (+0200) ### [JIT] ###
+17.06.17 23:01:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:01:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:01:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:01:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:01:10 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 23:01:10 (+0200) # Semtech status report send. 
+17.06.17 23:01:10 (+0200) ##### END #####
+17.06.17 23:01:20 (+0200) 
+17.06.17 23:01:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 23:01:20 (+0200) INFO: host/sx1301 time offset=(1497733132s:918872µs) - drift=600µs
+17.06.17 23:01:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 23:01:20 (+0200) 
+17.06.17 23:00:40 (+0200) 
+17.06.17 23:00:40 (+0200) ##### 2017-06-17 21:00:40 GMT #####
+17.06.17 23:00:40 (+0200) ### [UPSTREAM] ###
+17.06.17 23:00:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 23:00:40 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 23:00:40 (+0200) # RF packets forwarded: 3 (52 bytes)
+17.06.17 23:00:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:00:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:00:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:00:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:00:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:00:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:00:40 (+0200) # TX errors: 0
+17.06.17 23:00:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:00:40 (+0200) ### [JIT] ###
+17.06.17 23:00:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:00:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:00:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:00:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:00:40 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 23:00:40 (+0200) # Semtech status report send. 
+17.06.17 23:00:40 (+0200) ##### END #####
+17.06.17 23:01:40 (+0200) 
+17.06.17 23:01:40 (+0200) ##### 2017-06-17 21:01:40 GMT #####
+17.06.17 23:01:40 (+0200) ### [UPSTREAM] ###
+17.06.17 23:01:40 (+0200) # RF packets received by concentrator: 3
+17.06.17 23:01:40 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 23:01:40 (+0200) # RF packets forwarded: 2 (67 bytes)
+17.06.17 23:01:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:01:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:01:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:01:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:01:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:01:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:01:40 (+0200) # TX errors: 0
+17.06.17 23:01:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:01:40 (+0200) ### [JIT] ###
+17.06.17 23:01:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:01:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:01:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:01:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:01:40 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 23:01:40 (+0200) # Semtech status report send. 
+17.06.17 23:01:40 (+0200) ##### END #####
+17.06.17 23:02:10 (+0200) 
+17.06.17 23:02:10 (+0200) ##### 2017-06-17 21:02:10 GMT #####
+17.06.17 23:02:10 (+0200) ### [UPSTREAM] ###
+17.06.17 23:02:10 (+0200) # RF packets received by concentrator: 2
+17.06.17 23:02:10 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 23:02:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 23:02:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:02:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:02:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:02:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:02:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:02:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:02:10 (+0200) # TX errors: 0
+17.06.17 23:02:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:02:10 (+0200) ### [JIT] ###
+17.06.17 23:02:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:02:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:02:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:02:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:02:10 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 23:02:10 (+0200) # Semtech status report send. 
+17.06.17 23:02:10 (+0200) ##### END #####
+17.06.17 23:02:20 (+0200) 
+17.06.17 23:02:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 23:02:20 (+0200) INFO: host/sx1301 time offset=(1497733132s:919442µs) - drift=570µs
+17.06.17 23:02:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 23:02:20 (+0200) 
+17.06.17 23:02:40 (+0200) 
+17.06.17 23:02:40 (+0200) ##### 2017-06-17 21:02:40 GMT #####
+17.06.17 23:02:40 (+0200) ### [UPSTREAM] ###
+17.06.17 23:02:40 (+0200) # RF packets received by concentrator: 4
+17.06.17 23:02:40 (+0200) # CRC_OK: 50.00%, CRC_FAIL: 50.00%, NO_CRC: 0.00%
+17.06.17 23:02:40 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 23:02:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:02:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:02:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:02:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:02:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:02:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:02:40 (+0200) # TX errors: 0
+17.06.17 23:02:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:02:40 (+0200) ### [JIT] ###
+17.06.17 23:02:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:02:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:02:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:02:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:02:40 (+0200) # Upstream radio packet quality: 50.00%.
+17.06.17 23:02:40 (+0200) # Semtech status report send. 
+17.06.17 23:02:40 (+0200) ##### END #####
+17.06.17 23:03:10 (+0200) # Semtech status report send. 
+17.06.17 23:03:10 (+0200) ##### END #####
+17.06.17 23:03:20 (+0200) 
+17.06.17 23:03:20 (+0200) INFO: Disabling GPS mode for concentrator's counter...
+17.06.17 23:03:20 (+0200) INFO: host/sx1301 time offset=(1497733132s:919977µs) - drift=535µs
+17.06.17 23:03:20 (+0200) INFO: Enabling GPS mode for concentrator's counter.
+17.06.17 23:03:20 (+0200) 
+17.06.17 23:03:10 (+0200) 
+17.06.17 23:03:10 (+0200) ##### 2017-06-17 21:03:10 GMT #####
+17.06.17 23:03:10 (+0200) ### [UPSTREAM] ###
+17.06.17 23:03:10 (+0200) # RF packets received by concentrator: 3
+17.06.17 23:03:10 (+0200) # CRC_OK: 66.67%, CRC_FAIL: 33.33%, NO_CRC: 0.00%
+17.06.17 23:03:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 23:03:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:03:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:03:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:03:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:03:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:03:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:03:10 (+0200) # TX errors: 0
+17.06.17 23:03:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:03:10 (+0200) ### [JIT] ###
+17.06.17 23:03:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:03:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:03:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:03:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:03:10 (+0200) # Upstream radio packet quality: 66.67%.
+17.06.17 23:03:40 (+0200) 
+17.06.17 23:03:40 (+0200) ##### 2017-06-17 21:03:40 GMT #####
+17.06.17 23:03:40 (+0200) ### [UPSTREAM] ###
+17.06.17 23:03:40 (+0200) # RF packets received by concentrator: 4
+17.06.17 23:03:40 (+0200) # CRC_OK: 25.00%, CRC_FAIL: 75.00%, NO_CRC: 0.00%
+17.06.17 23:03:40 (+0200) # RF packets forwarded: 1 (18 bytes)
+17.06.17 23:03:40 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:03:40 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:03:40 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:03:40 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:03:40 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:03:40 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:03:40 (+0200) # TX errors: 0
+17.06.17 23:03:40 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:03:40 (+0200) ### [JIT] ###
+17.06.17 23:03:40 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:03:40 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:03:40 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:03:40 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:03:40 (+0200) # Upstream radio packet quality: 25.00%.
+17.06.17 23:03:40 (+0200) # Semtech status report send. 
+17.06.17 23:03:40 (+0200) ##### END #####
+17.06.17 23:04:10 (+0200) 
+17.06.17 23:04:10 (+0200) ##### 2017-06-17 21:04:10 GMT #####
+17.06.17 23:04:10 (+0200) ### [UPSTREAM] ###
+17.06.17 23:04:10 (+0200) # RF packets received by concentrator: 2
+17.06.17 23:04:10 (+0200) # CRC_OK: 100.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+17.06.17 23:04:10 (+0200) # RF packets forwarded: 2 (33 bytes)
+17.06.17 23:04:10 (+0200) # PUSH_DATA datagrams sent: 0 (0 bytes)
+17.06.17 23:04:10 (+0200) # PUSH_DATA acknowledged: 0.00%
+17.06.17 23:04:10 (+0200) ### [DOWNSTREAM] ###
+17.06.17 23:04:10 (+0200) # PULL_DATA sent: 0 (0.00% acknowledged)
+17.06.17 23:04:10 (+0200) # PULL_RESP(onse) datagrams received: 0 (0 bytes)
+17.06.17 23:04:10 (+0200) # RF packets sent to concentrator: 0 (0 bytes)
+17.06.17 23:04:10 (+0200) # TX errors: 0
+17.06.17 23:04:10 (+0200) ### BEACON IS DISABLED! 
+17.06.17 23:04:10 (+0200) ### [JIT] ###
+17.06.17 23:04:10 (+0200) # INFO: JIT queue contains 0 packets.
+17.06.17 23:04:10 (+0200) # INFO: JIT queue contains 0 beacons.
+17.06.17 23:04:10 (+0200) ### GPS IS DISABLED! 
+17.06.17 23:04:10 (+0200) ### [PERFORMANCE] ###
+17.06.17 23:04:10 (+0200) # Upstream radio packet quality: 100.00%.
+17.06.17 23:04:10 (+0200) # Semtech status report send. 
+17.06.17 23:04:10 (+0200) ##### END #####
